@@ -1,0 +1,17 @@
+# [ GENERAL ] #
+*
+!.gitignore
+
+# [ CODE ] #
+!*.c
+!*.h
+
+# [ DIRECTORIES ] #
+!*/
+
+# [ DIARY ] #
+*.diary
+
+# [ DIRECTORIES-SPECIFIC ] #
+!*/*.c
+!*/*.h
