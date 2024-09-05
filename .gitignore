@@ -5,6 +5,7 @@
 # [ CODE ] #
 !*.c
 !*.h
+!*.pu
 
 # [ DIRECTORIES ] #
 !*/
@@ -15,3 +16,4 @@
 # [ DIRECTORIES-SPECIFIC ] #
 !*/*.c
 !*/*.h
+!*/*.py
